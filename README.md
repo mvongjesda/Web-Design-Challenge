@@ -1,6 +1,5 @@
 # Web-Design-Challenge
 
-Web Visualization Dashboard (Latitude)
 
 This web design challenge is to employ html, css, and bootstrap to visualize the weather analysis performed in my previous project: https://github.com/mvongjesda/Python-API-Challenge
 
